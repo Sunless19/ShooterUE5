@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/Target/SM_Target.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4U/JYGOL6VVMJ4U2AR6M1JC4X.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HF/YMTXX75PBL1P0E305V22ZO.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/CI/Z27HHW5TYNKCYFQOD91DEQ.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/CJ/H56HF5M7N7UTTND27GIGNU.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1A/Z7GSC64DTFOR8UUFK0F0Q3.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/onofr/OneDrive/Desktop/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DE/3KZM1G1OP7SJTB14M7L876.uasset"
+			]
+		}
+	]
+}
